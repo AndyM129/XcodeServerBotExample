@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'XcodeServerBot_Example' do
+  pod 'XcodeServerBot', :path => '../'
+
+  target 'XcodeServerBot_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

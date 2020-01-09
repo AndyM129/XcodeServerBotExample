@@ -1,0 +1,6 @@
+framework module Pods_XcodeServerBot_Tests {
+  umbrella header "Pods-XcodeServerBot_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

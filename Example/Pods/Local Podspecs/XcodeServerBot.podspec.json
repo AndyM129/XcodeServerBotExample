@@ -1,0 +1,22 @@
+{
+  "name": "XcodeServerBot",
+  "version": "0.1.0",
+  "summary": "A short description of XcodeServerBot.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/AndyM129/XcodeServerBot",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "AndyM129": "andy_m12@163.com"
+  },
+  "source": {
+    "git": "https://github.com/AndyM129/XcodeServerBot.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XcodeServerBot/Classes/**/*"
+}

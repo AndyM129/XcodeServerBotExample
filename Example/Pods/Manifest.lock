@@ -1,0 +1,16 @@
+PODS:
+  - XcodeServerBot (0.1.0)
+
+DEPENDENCIES:
+  - XcodeServerBot (from `../`)
+
+EXTERNAL SOURCES:
+  XcodeServerBot:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XcodeServerBot: d03747aba52d98bfcf67754b6b596e485613aab1
+
+PODFILE CHECKSUM: 5b1492b51731afc06ae7d0bbf999e8fa6f56b986
+
+COCOAPODS: 1.8.4

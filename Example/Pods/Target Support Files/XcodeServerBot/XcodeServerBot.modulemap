@@ -1,0 +1,6 @@
+framework module XcodeServerBot {
+  umbrella header "XcodeServerBot-umbrella.h"
+
+  export *
+  module * { export * }
+}
